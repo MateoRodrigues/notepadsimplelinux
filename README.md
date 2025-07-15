@@ -1,5 +1,4 @@
 # NotepadsimpleLinux
----
 **Bloco de notas** feito em python 
-## SO
+## Sistema operacional
 Ubuntu
